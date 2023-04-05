@@ -1,0 +1,22 @@
+{
+    "name": "kibocode/blueprint",
+    "description": "OpenAI ChatGPT Api Client in PHP",
+    "autoload": {
+        "psr-4": {
+            "Kibocode\\Blueprint\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Muhammad-Akhtar",
+            "email": "akhtarm821@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=7.0",
+        "ext-curl": "*",
+        "ext-json": "*"
+    },
+    "version": "0.0.1"
+}
