@@ -14,9 +14,9 @@
     ],
     "minimum-stability": "dev",
     "require": {
-        "php": ">=7.1",
+        "php": ">=7.3",
         "ext-curl": "*",
         "ext-json": "*"
     },
-    "version": "0.0.1"
+    "version": "1.0.0"
 }
